@@ -10,4 +10,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка>
+   git clone <https://github.com/kumikovaslan-sys/->
+2. Установите зависимости:
+   pip install -r requirements.txt
+3. Запустите приложение:
+   streamlit run app.py
